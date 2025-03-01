@@ -4,6 +4,11 @@
 
 EventMania is a comprehensive event management system designed to simplify the process of organizing and booking events. From weddings to corporate meetings, EventMania provides an all-in-one solution for event planning and management.
 
+TO SEE THE THE OUTPUT 
+
+http://eventmaina.ct.ws/
+
+
 ## Features
 
 - 🎉 Event Booking System
